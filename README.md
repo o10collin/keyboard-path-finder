@@ -17,13 +17,13 @@ the program searches through a word list and finds the longest sequence of lette
 ### qwerty keyboard & english wordlist
 
 ```bash
-python3 main.py english.txt --qwerty
+python3 kpf.py english.txt --qwerty
 ```
 
 ### qwertz keyboard & german wordlist
 
 ```bash
-python3 main.py german.txt --qwertz
+python3 kpf.py german.txt --qwertz
 ```
 
 ## word lists
