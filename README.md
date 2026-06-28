@@ -12,15 +12,15 @@ the program searches through a word list and finds the longest sequence of lette
 * supports large word lists
 * simple command line interface
 
-## usage
+## usage examples
 
-### qwerty keyboard
+### qwerty keyboard & english wordlist
 
 ```bash
 python3 main.py english.txt --qwerty
 ```
 
-### qwertz keyboard
+### qwertz keyboard & german wordlist
 
 ```bash
 python3 main.py german.txt --qwertz
